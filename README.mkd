@@ -29,4 +29,4 @@ This will print
 { name: 'b', width: 90, height: 70, length: 6 }
 ```
 
-As you can see, existing properties are
+As you can see, existing properties are getting replaced.
