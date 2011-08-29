@@ -1,0 +1,32 @@
+**append** adds method objects that copies all the properties from one object to
+another.
+
+```javascript
+Object.prototype.append(object)
+```
+
+Example
+-------
+
+```javascript
+var a = {
+	name: "a",
+	width: 90,
+	height: 70
+};
+
+var b = {
+	name: "b",
+	length: 6
+};
+
+console.log(a.append(b));
+```
+
+This will print
+
+```
+{ name: 'b', width: 90, height: 70, length: 6 }
+```
+
+As you can see, existing properties are

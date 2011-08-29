@@ -1,0 +1,19 @@
+{
+	"author": "Paul Vorbach <paul@vorb.de> (http://vorb.de)",
+	"name": "append",
+	"description": "append the properties from one object to another",
+	"version": "0.0.0",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/pvorb/node-append.git"
+	},
+	"bugs": {
+		"web": "https://github.com/pvorb/node-append/issues"
+	},
+	"main": "append.js",
+	"engines": {
+		"node": ">=0.4.0"
+	},
+	"dependencies": {
+	}
+}
