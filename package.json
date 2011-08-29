@@ -14,6 +14,5 @@
 	"engines": {
 		"node": "*"
 	},
-	"dependencies": {
-	}
+	tags: [ "object", "prototype", "append" ]
 }
