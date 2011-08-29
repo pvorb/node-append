@@ -14,5 +14,5 @@
 	"engines": {
 		"node": "*"
 	},
-	tags: [ "object", "prototype", "append" ]
+	"tags": [ "object", "prototype", "append" ]
 }
