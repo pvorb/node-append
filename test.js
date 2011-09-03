@@ -1,4 +1,4 @@
-require("./");
+var append = require("./");
 
 a = {
 	name: "a",
@@ -11,4 +11,4 @@ b = {
 	length: 6
 };
 
-console.log(a.append(b));
+console.log(append(a, b));

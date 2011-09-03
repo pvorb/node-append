@@ -1,8 +1,7 @@
-**append** adds method objects that copies all the properties from one object to
-another.
+**append** one object to another.
 
 ```javascript
-Object.prototype.append(object)
+append(obj1, obj2)
 ```
 
 Example
