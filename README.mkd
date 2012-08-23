@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/pvorb/node-append.png)](http://travis-ci.org/pvorb/node-append)
 **append** one object to another.
 
 ```javascript
