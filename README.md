@@ -14,7 +14,7 @@ Usage
 ~~~  javascript
 var append = require('append');
 
-append(to, from);
+var result = append(to, from);
 ~~~
 
 Example
