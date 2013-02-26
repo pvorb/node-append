@@ -34,14 +34,13 @@ console.log(append(a, b));
 
 This will print
 
+    { name: 'b', width: 90, height: 70, length: 6 }
  
-{ name: 'b', width: 90, height: 70, length: 6 }
- 
+As you can see, existing properties are getting replaced.
 
 License
 -------
 
-As you can see, existing properties are getting replaced.
 Copyright © 2011 Paul Vorbach
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
