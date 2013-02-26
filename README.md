@@ -8,9 +8,11 @@ Installation
 
     npm install append
 
+Usage
+------
 
 ~~~  javascript
-append(obj1, obj2)
+append(to, from);
 ~~~
 
 Example
